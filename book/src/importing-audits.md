@@ -33,9 +33,9 @@ desired to locally-defined criteria.
 
 To ease discovery, `cargo vet` maintains a central registry of the audit sets
 published by well-known organizations. This information is stored in the
-[`registry.toml`](https://raw.githubusercontent.com/bholley/cargo-vet/main/registry.toml)
+[`registry.toml`](https://raw.githubusercontent.com/mozilla/cargo-vet/main/registry.toml)
 file alongside the source code in the `cargo vet`
-[repository](https://github.com/bholley/cargo-vet). You can request the
+[repository](https://github.com/mozilla/cargo-vet). You can request the
 inclusion of your audit set in the registry by submitting a pull request.
 
 You can inspect the registry directly to find audit sets you wish to import.
